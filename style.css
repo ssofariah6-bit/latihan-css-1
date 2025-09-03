@@ -1,0 +1,25 @@
+body{font-family:"georgia, serif";
+font-size:15px;
+font-variant: normal;
+font-style:normal;
+}
+h1{color:blueviolet; font-style:italic;}
+ p{
+    line-height:1.6em;
+     color:rgb(14,14,13)
+ }
+ .p1{
+    color:darkgreen;
+    background-color:beige
+ }
+ .p2{
+    background-color:burlywood
+ }
+ a{
+    text-decoration: none;
+ }
+
+ body{
+    background-color:"r";
+ }
+ 
