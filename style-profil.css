@@ -1,13 +1,24 @@
-.table1{
-    color:black;
-    background-color:rgb(18, 196, 18);
-
+body{font-family:'Courier New', Courier, monospace;
+    font-size:15px;
+    font-variant: normal;
+    font-style:normal;
 }
 
+.navigasi{
+    background-color:rgb(17, 203, 17);
+    font-style:normal;
+    color:black;
+    text-align:right;
+    text-decoration:none;   
+}
+
+.table1{
+    background-color:azure;
+}
 
 .body1{
     font-style:italic;
-    line-height:;
+    line: height 1.6em;
 }
 footer{
     background-color:black;

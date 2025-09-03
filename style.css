@@ -3,6 +3,11 @@ font-size:15px;
 font-variant: normal;
 font-style:normal;
 }
+
+.navigasi{
+   text-align:right;
+}
+
 h1{color:blueviolet; font-style:italic;}
  p{
     line-height:1.6em;
